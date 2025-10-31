@@ -1,10 +1,10 @@
-自定义制作组
+**自定义制作组**
 
 Group.txt 
 
 https://raw.githubusercontent.com/jdzjy/Symedia/refs/heads/main/anime/Group.txt
 
-自定义替换词
+**自定义替换词**
 
 1 CHSCHTRE.txt CHS替换为简体等 
 
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/jdzjy/Symedia/refs/heads/main/anime/anime.txt
 
 https://raw.githubusercontent.com/jdzjy/Symedia/refs/heads/main/anime/animepisodegroup.txt
 
-自定义渲染词
+**自定义渲染词**
 
 1 CHSCHTRE.txt CHS替换为简体等 
 
